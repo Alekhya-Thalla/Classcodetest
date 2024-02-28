@@ -3,9 +3,9 @@
 Author: Alekhya Thalla
 Date: 2/28/2020
 Comments: This C# Console Application code demonstrates the
-    Selection Sort and Bubble Sort Algorithms. No input
+    Bubble Sort Algorithms. No input
     is required for the script. It will execute without 
-    input against two pre-populated arrays.
+    input against pre-populated arrays.
 */
 class Program
 {
