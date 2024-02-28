@@ -1,9 +1,17 @@
 ﻿
-
+/*
+Author: Alekhya Thalla
+Date: 2/28/2020
+Comments: This C# Console Application code demonstrates the
+    Selection Sort and Bubble Sort Algorithms. No input
+    is required for the script. It will execute without 
+    input against two pre-populated arrays.
+*/
 class Program
 {
     static void Main(string[] args)
     {
+      
         int[] numbers = { 5, 72, 3, 14, 7, 1 };
         BubbleSort(numbers);
 
